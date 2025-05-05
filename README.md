@@ -1,4 +1,4 @@
-# Elastic-SIEM
+# Elastic - SIEM
 🔍 Elastic SIEM: Centralized Log Collection & Security Monitoring
 
 This project showcases the setup and configuration of the Elastic Stack (Elasticsearch, Logstash, Kibana) to create a centralized, real-time Security Information and Event Management (SIEM) system. Implemented on a Kali Linux VM, the goal was to collect, analyze, and visualize logs for enhanced threat detection and incident response.
